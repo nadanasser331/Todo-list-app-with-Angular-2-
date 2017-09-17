@@ -1,0 +1,27 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "todo list app with angular 2 ",
+  "main": "index.js",
+  "scripts": {
+   "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadanasser331/Todo-list-app-with-Angular-2-.git"
+  },
+  "keywords": [
+    "todo",
+    "list",
+    "app"
+  ],
+  "author": "nada nasser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadanasser331/Todo-list-app-with-Angular-2-/issues"
+  },
+  "homepage": "https://github.com/nadanasser331/Todo-list-app-with-Angular-2-#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
